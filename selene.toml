@@ -1,3 +1,5 @@
 std = 'roblox'
 
 [config]
+
+unused_variable = "allow"
